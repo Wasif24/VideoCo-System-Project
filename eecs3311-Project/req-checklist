@@ -1,0 +1,27 @@
+REQ_##	completion
+REQ_01	1	done
+REQ_02	1	done
+REQ_03	1	done
+REQ_04	1	done
+REQ_05	1	done
+REQ_06	1	done
+REQ_07	1	done
+REQ_08	1	done
+REQ_09	1	done	
+REQ_10	1	done
+REQ_11	1	done
+REQ_12	0	skipped
+REQ_13	1	done
+REQ_14	1	done
+REQ_15	1	done
+REQ_16	1	done
+REQ_17	1	done
+REQ_18	1	done
+REQ_19	1	done
+REQ_20	1	done
+REQ_21	1	done
+REQ_22	1	done
+REQ_23	1	N/A
+REQ_24	0	skipped
+REQ_25	1	done (but not in the correct way?)
+REQ_26	0	skipped

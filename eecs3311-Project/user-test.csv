@@ -1,0 +1,9 @@
+name,id,email,password,address,payment,points
+Operator,0,op@vidco.ca,Operator123,Ontario,N/A,0
+newt1,1,newt1@gmail.com,newt1newt1,Ontario,Points,20
+t2,2,t2@yorku.ca,t2t2,Ontario,Points,0
+t3,3,t3@yorku.ca,t3t3,N/A,N/A,0
+Bobby,6,bob@gmail.com,BobIsQueen,Ontario,1234 2587 3425 3978; 12/26; 835,5
+Robert,7,rob@gmail.com,RobIsKing,N/A,N/A,10
+Alice,10,al@hotmail.com,PrettyPumpkins898,California,N/A,2
+Song,12,wangs@yorku.ca,songwang123,N/A,N/A,0
